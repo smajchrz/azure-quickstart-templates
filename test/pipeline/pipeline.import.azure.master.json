@@ -24,308 +24,308 @@
                     "branchFilters": [
                         "+master"
                     ],
-                    "timeZoneId": "Central Standard Time",
+                    "timeZoneId": "Pacific Standard Time",
                     "startHours": 0,
                     "startMinutes": 0,
                     "daysToBuild": 127,
-                    "scheduleJobId": "89416352-b578-4bb1-80da-fcca111d4de0",
+                    "scheduleJobId": "7d4ea744-7034-4c9a-aa6a-9d534fdb32e1",
                     "scheduleOnlyWithChanges": false
                 },
                 {
                     "branchFilters": [
                         "+master"
                     ],
-                    "timeZoneId": "Central Standard Time",
+                    "timeZoneId": "Pacific Standard Time",
                     "startHours": 1,
                     "startMinutes": 0,
                     "daysToBuild": 127,
-                    "scheduleJobId": "1b9d5c96-1e96-46be-a12b-86ab2d116649",
+                    "scheduleJobId": "0ca7e9ad-93d3-4869-98cd-324ac191d3bd",
                     "scheduleOnlyWithChanges": false
                 },
                 {
                     "branchFilters": [
                         "+master"
                     ],
-                    "timeZoneId": "Central Standard Time",
+                    "timeZoneId": "Pacific Standard Time",
                     "startHours": 2,
                     "startMinutes": 0,
                     "daysToBuild": 127,
-                    "scheduleJobId": "efa50167-0016-406f-ae26-33bcbb60f8dc",
+                    "scheduleJobId": "acd8ed62-b192-4ec7-b903-e73bafb51fe7",
                     "scheduleOnlyWithChanges": false
                 },
                 {
                     "branchFilters": [
                         "+master"
                     ],
-                    "timeZoneId": "Central Standard Time",
+                    "timeZoneId": "Pacific Standard Time",
                     "startHours": 3,
                     "startMinutes": 0,
                     "daysToBuild": 127,
-                    "scheduleJobId": "faeb59f8-32d7-486f-a569-ff7e55eb17d6",
+                    "scheduleJobId": "a0c1a5c8-256e-4e53-b480-6f1b56c14e0e",
                     "scheduleOnlyWithChanges": false
                 },
                 {
                     "branchFilters": [
                         "+master"
                     ],
-                    "timeZoneId": "Central Standard Time",
+                    "timeZoneId": "Pacific Standard Time",
                     "startHours": 4,
                     "startMinutes": 0,
                     "daysToBuild": 127,
-                    "scheduleJobId": "fda1ea3a-6ab2-457a-a704-731dabad83bd",
+                    "scheduleJobId": "bc1cd744-0fbf-4afa-90f7-68e3b523ed79",
                     "scheduleOnlyWithChanges": false
                 },
                 {
                     "branchFilters": [
                         "+master"
                     ],
-                    "timeZoneId": "Central Standard Time",
+                    "timeZoneId": "Pacific Standard Time",
                     "startHours": 5,
                     "startMinutes": 0,
                     "daysToBuild": 127,
-                    "scheduleJobId": "6d34d1ed-0afd-4572-abfa-0bba864395e6",
+                    "scheduleJobId": "cc055c5b-3436-4944-806c-bfe8da686b70",
                     "scheduleOnlyWithChanges": false
                 },
                 {
                     "branchFilters": [
                         "+master"
                     ],
-                    "timeZoneId": "Central Standard Time",
+                    "timeZoneId": "Pacific Standard Time",
                     "startHours": 6,
                     "startMinutes": 0,
                     "daysToBuild": 127,
-                    "scheduleJobId": "fe139ab3-9a9c-4d34-9063-00959072d35a",
+                    "scheduleJobId": "32ac8ac1-6347-4ec4-8d43-d734ffd61fae",
                     "scheduleOnlyWithChanges": false
                 },
                 {
                     "branchFilters": [
                         "+master"
                     ],
-                    "timeZoneId": "Central Standard Time",
+                    "timeZoneId": "Pacific Standard Time",
                     "startHours": 7,
                     "startMinutes": 0,
                     "daysToBuild": 127,
-                    "scheduleJobId": "cbdb641c-6c15-4f25-a5ae-8c3505853ee3",
+                    "scheduleJobId": "7ee92b42-d821-415f-9f23-8a665aafc7ac",
                     "scheduleOnlyWithChanges": false
                 },
                 {
                     "branchFilters": [
                         "+master"
                     ],
-                    "timeZoneId": "Central Standard Time",
+                    "timeZoneId": "Pacific Standard Time",
                     "startHours": 8,
                     "startMinutes": 0,
                     "daysToBuild": 127,
-                    "scheduleJobId": "0bd0a948-15ea-4e17-b63d-7140acfb8e0a",
+                    "scheduleJobId": "3829102b-dc0d-45fc-89ea-45bc8a555d2f",
                     "scheduleOnlyWithChanges": false
                 },
                 {
                     "branchFilters": [
                         "+master"
                     ],
-                    "timeZoneId": "Central Standard Time",
+                    "timeZoneId": "Pacific Standard Time",
                     "startHours": 9,
                     "startMinutes": 0,
                     "daysToBuild": 127,
-                    "scheduleJobId": "fbbfcc19-c070-4c95-8cb2-b3c034a05d3c",
+                    "scheduleJobId": "e25e603e-3582-4c9d-bbce-bd0cc56bf032",
                     "scheduleOnlyWithChanges": false
                 },
                 {
                     "branchFilters": [
                         "+master"
                     ],
-                    "timeZoneId": "Central Standard Time",
+                    "timeZoneId": "Pacific Standard Time",
                     "startHours": 10,
                     "startMinutes": 0,
                     "daysToBuild": 127,
-                    "scheduleJobId": "97ad661b-bc54-4eb9-b9d3-5910623c8115",
+                    "scheduleJobId": "c41431e6-30d8-4f06-acf0-6b1c26d5bba3",
                     "scheduleOnlyWithChanges": false
                 },
                 {
                     "branchFilters": [
                         "+master"
                     ],
-                    "timeZoneId": "Central Standard Time",
+                    "timeZoneId": "Pacific Standard Time",
                     "startHours": 11,
                     "startMinutes": 0,
                     "daysToBuild": 127,
-                    "scheduleJobId": "95104431-11e6-4fad-9a3d-0321ee76d1c4",
+                    "scheduleJobId": "506b315e-a3f4-43b8-88fb-d0304c10cea4",
                     "scheduleOnlyWithChanges": false
                 },
                 {
                     "branchFilters": [
                         "+master"
                     ],
-                    "timeZoneId": "Central Standard Time",
+                    "timeZoneId": "Pacific Standard Time",
                     "startHours": 12,
                     "startMinutes": 0,
                     "daysToBuild": 127,
-                    "scheduleJobId": "15d1be4d-8969-464b-9f0a-f47ace984a94",
+                    "scheduleJobId": "0ff2fe49-80a6-46a4-ba3d-064315857834",
                     "scheduleOnlyWithChanges": false
                 },
                 {
                     "branchFilters": [
                         "+master"
                     ],
-                    "timeZoneId": "Central Standard Time",
+                    "timeZoneId": "Pacific Standard Time",
                     "startHours": 13,
                     "startMinutes": 0,
                     "daysToBuild": 127,
-                    "scheduleJobId": "608cd8c9-e3cd-4b6d-9533-ea5482185aa5",
+                    "scheduleJobId": "39e6e8e4-5c14-4e67-8fe6-5ac9908d1241",
                     "scheduleOnlyWithChanges": false
                 },
                 {
                     "branchFilters": [
                         "+master"
                     ],
-                    "timeZoneId": "Central Standard Time",
+                    "timeZoneId": "Pacific Standard Time",
                     "startHours": 14,
                     "startMinutes": 0,
                     "daysToBuild": 127,
-                    "scheduleJobId": "3c1c2551-941d-43e5-86ce-8b964dbf3f0a",
+                    "scheduleJobId": "edc74209-dc5d-44dd-a3e3-8fe6b1f41202",
                     "scheduleOnlyWithChanges": false
                 },
                 {
                     "branchFilters": [
                         "+master"
                     ],
-                    "timeZoneId": "Central Standard Time",
+                    "timeZoneId": "Pacific Standard Time",
                     "startHours": 15,
                     "startMinutes": 0,
                     "daysToBuild": 127,
-                    "scheduleJobId": "1663958d-5d5a-4257-8e9b-5ddf845962ec",
+                    "scheduleJobId": "8c5d698a-c85f-4923-88ed-14b4d9bee8fa",
                     "scheduleOnlyWithChanges": false
                 },
                 {
                     "branchFilters": [
                         "+master"
                     ],
-                    "timeZoneId": "Central Standard Time",
+                    "timeZoneId": "Pacific Standard Time",
                     "startHours": 16,
                     "startMinutes": 0,
                     "daysToBuild": 127,
-                    "scheduleJobId": "9902a378-a601-4e44-af8c-aa403acdd7f7",
+                    "scheduleJobId": "2cc388e7-e2b9-43ae-a295-c07ca6177648",
                     "scheduleOnlyWithChanges": false
                 },
                 {
                     "branchFilters": [
                         "+master"
                     ],
-                    "timeZoneId": "Central Standard Time",
+                    "timeZoneId": "Pacific Standard Time",
                     "startHours": 17,
                     "startMinutes": 0,
                     "daysToBuild": 127,
-                    "scheduleJobId": "7576f4a9-7a14-437d-9bfe-f045c705857f",
+                    "scheduleJobId": "7ed5928a-f6af-42e8-9f19-b0a9e051f79f",
                     "scheduleOnlyWithChanges": false
                 },
                 {
                     "branchFilters": [
                         "+master"
                     ],
-                    "timeZoneId": "Central Standard Time",
+                    "timeZoneId": "Pacific Standard Time",
                     "startHours": 18,
                     "startMinutes": 0,
                     "daysToBuild": 127,
-                    "scheduleJobId": "cbd18724-4409-4133-aa13-3328094effd2",
+                    "scheduleJobId": "5c6ff51a-7e89-4d2c-a029-d79feb1e02f5",
                     "scheduleOnlyWithChanges": false
                 },
                 {
                     "branchFilters": [
                         "+master"
                     ],
-                    "timeZoneId": "Central Standard Time",
+                    "timeZoneId": "Pacific Standard Time",
                     "startHours": 19,
                     "startMinutes": 0,
                     "daysToBuild": 127,
-                    "scheduleJobId": "11230642-50de-4b59-88aa-0a2f0b4f9bbc",
+                    "scheduleJobId": "08719fcc-81d7-414a-a1e4-8844e4be0ed2",
                     "scheduleOnlyWithChanges": false
                 },
                 {
                     "branchFilters": [
                         "+master"
                     ],
-                    "timeZoneId": "Central Standard Time",
+                    "timeZoneId": "Pacific Standard Time",
                     "startHours": 20,
                     "startMinutes": 0,
                     "daysToBuild": 127,
-                    "scheduleJobId": "516eb030-25f2-45a2-9c99-a0052a615d6e",
+                    "scheduleJobId": "b49b629e-4de4-4e90-aff4-b345db470650",
                     "scheduleOnlyWithChanges": false
                 },
                 {
                     "branchFilters": [
                         "+master"
                     ],
-                    "timeZoneId": "Central Standard Time",
+                    "timeZoneId": "Pacific Standard Time",
                     "startHours": 21,
                     "startMinutes": 0,
                     "daysToBuild": 127,
-                    "scheduleJobId": "9cd74cdd-2646-4f86-881d-941b085c860f",
+                    "scheduleJobId": "519222c0-10be-4031-bea9-7b37724f5549",
                     "scheduleOnlyWithChanges": false
                 },
                 {
                     "branchFilters": [
                         "+master"
                     ],
-                    "timeZoneId": "Central Standard Time",
+                    "timeZoneId": "Pacific Standard Time",
                     "startHours": 22,
                     "startMinutes": 0,
                     "daysToBuild": 127,
-                    "scheduleJobId": "ba742a8f-c185-4f34-89d5-2c3f8b49c1bb",
+                    "scheduleJobId": "a05611c1-23a8-4679-bbc9-1864e0ca486f",
                     "scheduleOnlyWithChanges": false
                 },
                 {
                     "branchFilters": [
                         "+master"
                     ],
-                    "timeZoneId": "Central Standard Time",
+                    "timeZoneId": "Pacific Standard Time",
                     "startHours": 23,
                     "startMinutes": 0,
                     "daysToBuild": 127,
-                    "scheduleJobId": "94117ce0-94c0-4cd4-82db-927c646cfbcd",
+                    "scheduleJobId": "bd998740-d941-4507-bc50-631596429320",
                     "scheduleOnlyWithChanges": false
                 },
                 {
                     "branchFilters": [
                         "+master"
                     ],
-                    "timeZoneId": "Central Standard Time",
+                    "timeZoneId": "Pacific Standard Time",
                     "startHours": 0,
                     "startMinutes": 30,
                     "daysToBuild": 127,
-                    "scheduleJobId": "51eeb0f2-c2e5-4aa2-852f-9eb467c4d98c",
+                    "scheduleJobId": "1354b82a-b0eb-4d49-8e11-00c185d78ff9",
                     "scheduleOnlyWithChanges": false
                 },
                 {
                     "branchFilters": [
                         "+master"
                     ],
-                    "timeZoneId": "Central Standard Time",
+                    "timeZoneId": "Pacific Standard Time",
                     "startHours": 1,
                     "startMinutes": 30,
                     "daysToBuild": 127,
-                    "scheduleJobId": "d34d43d0-2b58-4741-b2a6-736dd029a173",
+                    "scheduleJobId": "c819917e-aec1-4e48-93d6-72deef0fcea6",
                     "scheduleOnlyWithChanges": false
                 },
                 {
                     "branchFilters": [
                         "+master"
                     ],
-                    "timeZoneId": "Central Standard Time",
+                    "timeZoneId": "Pacific Standard Time",
                     "startHours": 2,
                     "startMinutes": 30,
                     "daysToBuild": 127,
-                    "scheduleJobId": "ae7029d8-dcd3-4d84-87e9-fd497b897640",
+                    "scheduleJobId": "ad6a6cbb-9378-4c71-af12-f7ee5af92f8c",
                     "scheduleOnlyWithChanges": false
                 },
                 {
                     "branchFilters": [
                         "+master"
                     ],
-                    "timeZoneId": "Central Standard Time",
+                    "timeZoneId": "Pacific Standard Time",
                     "startHours": 3,
                     "startMinutes": 30,
                     "daysToBuild": 127,
-                    "scheduleJobId": "5b78164e-805c-4f4e-b34e-3b96ed0a28c9",
+                    "scheduleJobId": "c0ceea0a-d010-4b4e-80f1-c88902538d58",
                     "scheduleOnlyWithChanges": false
                 }
             ],
@@ -347,6 +347,18 @@
             "value": null,
             "isSecret": true
         },
+        "bicep.path": {
+            "value": "<this will be set by a pipeline task>"
+        },
+        "bicep.supported": {
+            "value": "<this will set by a pipeline task>"
+        },
+        "bicep.uri": {
+            "value": "https://github.com/Azure/bicep/releases/latest/download/bicep-win-x64.exe"
+        },
+        "bicep.version": {
+            "value": "<this will be set by a pipeline task>"
+        },
         "config.file.uri": {
             "value": "https://azbotstorage.blob.core.windows.net/gen-artifacts-config/.config.json"
         },
@@ -362,11 +374,26 @@
         "gen.prereq.parameters.filename": {
             "value": "gen.prereq.parameters.json"
         },
+        "github.enable.comments": {
+            "value": "true"
+        },
+        "github.enable.labels": {
+            "value": "true"
+        },
         "location": {
             "value": "westus"
         },
+        "mainTemplate.deployment.filename": {
+            "value": "<this will be set by a pipeline task> (the actual JSON file being deployed - currently this is always the same as mainTemplate.filename.json)"
+        },
         "mainTemplate.deployment.name": {
             "value": "mainTemplate-deployment"
+        },
+        "mainTemplate.filename": {
+            "value": "main.bicep"
+        },
+        "mainTemplate.filename.json": {
+            "value": "<this will be set by a pipeline task> (which JSON file is found, either azuredeploy.json or mainTemplate.json)"
         },
         "parameters.filename": {
             "value": "azuredeploy.parameters.json"
@@ -380,10 +407,22 @@
         "prereq.resourceGroup.name": {
             "value": "<this will set by a pipeline task>"
         },
+        "prereq.template.filename.bicep": {
+            "value": "prereq.main.bicep"
+        },
+        "prereq.template.filename.json": {
+            "value": "prereq.azuredeploy.json"
+        },
+        "prereq.template.fullpath": {
+            "value": "<this will be set by a pipeline task>"
+        },
         "resourceGroup.name": {
             "value": "<this will set by a pipeline task>"
         },
         "result.best.practice": {
+            "value": "FAIL"
+        },
+        "result.bicep.build": {
             "value": "FAIL"
         },
         "result.credscan": {
@@ -414,6 +453,9 @@
             "value": null,
             "isSecret": true
         },
+        "storage.account.name": {
+            "value": "azurequickstartsservice"
+        },
         "subscription.id": {
             "value": "0cec7090-2e08-4498-9337-eb96ade50821"
         },
@@ -430,23 +472,29 @@
         "ttk.folder": {
             "value": "$(Agent.BuildDirectory)\\test"
         },
+        "ttk.skip.tests": {
+            "value": "DeploymentParameters Should Have Value"
+        },
         "ttk.uri": {
-            "value": "https://aka.ms/arm-ttk-latest"
+            "value": "https://azurequickstartsservice.blob.core.windows.net/ttk/staging/arm-template-toolkit.zip"
         },
         "validation.type": {
             "value": "Automated"
         },
-        "whatif.module.uri": {
-            "value": null,
-            "isSecret": true
+        "wait.role.assignment.seconds": {
+            "value": "120"
+        },
+        "az.module.uri": {
+            "value": "https://azurequickstartsservice.blob.core.windows.net/ttk/AzModules/Az-AzTable.6.2.1.zip"
         }
     },
     "properties": {},
     "tags": [],
+    "comment": "Port Brian's recent changes",
     "jobAuthorizationScope": 1,
     "jobTimeoutInMinutes": 360,
     "jobCancelTimeoutInMinutes": 15,
-    "badgeEnabled": false,
+    "badgeEnabled": true,
     "process": {
         "phases": [
             {
@@ -456,7 +504,7 @@
                         "enabled": true,
                         "continueOnError": false,
                         "alwaysRun": false,
-                        "displayName": "Download TTK",
+                        "displayName": "Download TTK and CI scripts",
                         "timeoutInMinutes": 0,
                         "condition": "succeeded()",
                         "task": {
@@ -468,18 +516,19 @@
                             "targetType": "inline",
                             "filePath": "",
                             "arguments": "",
-                            "script": "New-Item '$(ttk.folder)' -ItemType Directory\nInvoke-WebRequest -uri '$(ttk.uri)' -OutFile \"$(ttk.folder)/$(ttk.asset.filename)\" -Verbose\nGet-ChildItem '$(ttk.folder)' -Recurse\n\nWrite-Host \"Expanding files...\"\nExpand-Archive -Path '$(ttk.folder)/*.zip' -DestinationPath '$(ttk.folder)' -Verbose\n\nWrite-Host \"Expanded files found:\"\nGet-ChildItem '$(ttk.folder)' -Recurse",
+                            "script": "$ttkUri = \"$(ttk.uri)\"\nwrite-host $ENV:BUILD_REPOSITORY_ID\nwrite-host $ENV:SYSTEM_PULLREQUEST_PULLREQUESTNUMBER\n\n# Look for use-staging-scripts label\n$labelUri = \"https://api.github.com/repos/$ENV:BUILD_REPOSITORY_ID/issues/$ENV:SYSTEM_PULLREQUEST_PULLREQUESTNUMBER/labels\"\nWrite-Host \"Looking for label at $labelUri\"\n$labelResult = curl -s $labelUri\nWrite-Host $labelResult\nif ($labelResult -like '*\"name\": \"use-staging-scripts\"*') {\n    Write-Host \"... Found\"\n    $ttkUri = \"https://azurequickstartsservice.blob.core.windows.net/ttk/staging/arm-template-toolkit.zip\"\n    Write-Host \"Using script location $ttkUri\"\n} else {\n    Write-Host \"... not found\"\n}\n\nNew-Item '$(ttk.folder)' -ItemType Directory\nWrite-Host \"ttkUri: $ttkUri\"\nInvoke-WebRequest -uri $ttkUri -OutFile \"$(ttk.folder)/$(ttk.asset.filename)\" -Verbose\nGet-ChildItem '$(ttk.folder)' -Recurse\n\nWrite-Host \"Expanding files...\"\nExpand-Archive -Path '$(ttk.folder)/*.zip' -DestinationPath '$(ttk.folder)' -Verbose\n\nWrite-Host \"Expanded files found:\"\nGet-ChildItem '$(ttk.folder)' -Recurse",
                             "errorActionPreference": "stop",
                             "failOnStderr": "false",
                             "showWarnings": "false",
                             "ignoreLASTEXITCODE": "false",
                             "pwsh": "true",
-                            "workingDirectory": ""
+                            "workingDirectory": "",
+                            "runScriptInSeparateScope": "false"
                         }
                     },
                     {
                         "environment": {},
-                        "enabled": false,
+                        "enabled": true,
                         "continueOnError": false,
                         "alwaysRun": false,
                         "displayName": "Install Az Module from Storage",
@@ -494,13 +543,14 @@
                             "targetType": "inline",
                             "filePath": "",
                             "arguments": "",
-                            "script": "$AzModuleUri = 'https://azurequickstartsservice.blob.core.windows.net/ttk/AzModules/Az-AzTable.5.0.zip'\n\ngci env:\n $p = ($env:psmodulepath).split(';')[0]\n\nInvoke-WebRequest -uri \"$AzModuleUri\" -OutFile \"$env:TEMP/az.zip\" -Verbose\n\n#Get-ChildItem '$p' -Recurse\n\nWrite-Host \"Expanding files...\"\nExpand-Archive -Path \"$env:TEMP/az.zip\" -DestinationPath \"$p\" -Verbose\n\nWrite-Host \"Expanded files found:\"\n#Get-ChildItem \"$p\" -Recurse\n\nGet-Module Az -ListAvailable\n\n#Get-AzResourceGroup\n",
+                            "script": "$AzModuleUri = \"$(az.module.uri)\"\n\ngci env:\n\n $p = ($env:psmodulepath).split(';')[0]\n\nInvoke-WebRequest -uri \"$AzModuleUri\" -OutFile \"$env:TEMP/az.zip\" -Verbose\n\n#Get-ChildItem '$p' -Recurse\n\nWrite-Host \"Expanding files...\"\nExpand-Archive -Path \"$env:TEMP/az.zip\" -DestinationPath \"$p\" -Verbose\n\nWrite-Host \"Expanded files found:\"\n#Get-ChildItem \"$p\" -Recurse\n\nGet-Module Az -ListAvailable\n",
                             "errorActionPreference": "stop",
                             "failOnStderr": "false",
                             "showWarnings": "false",
                             "ignoreLASTEXITCODE": "false",
                             "pwsh": "true",
-                            "workingDirectory": ""
+                            "workingDirectory": "",
+                            "runScriptInSeparateScope": "false"
                         }
                     },
                     {
@@ -519,14 +569,15 @@
                         "inputs": {
                             "targetType": "filePath",
                             "filePath": "$(ttk.folder)/ci-scripts/ConnectTo-Azure.ps1",
-                            "arguments": "-appId $(app.id.admin) -secret \"$(app.secret.admin)\" -tenantId $(tenant.id) -subscriptionId $(subscription.id) -Environment $(environment) -InstallAzModule ",
+                            "arguments": "-appId $(app.id.admin) -secret \"$(app.secret.admin)\" -tenantId $(tenant.id) -subscriptionId $(subscription.id) -Environment $(environment)",
                             "script": "",
                             "errorActionPreference": "stop",
                             "failOnStderr": "false",
                             "showWarnings": "false",
                             "ignoreLASTEXITCODE": "false",
                             "pwsh": "true",
-                            "workingDirectory": ""
+                            "workingDirectory": "",
+                            "runScriptInSeparateScope": "false"
                         }
                     },
                     {
@@ -534,7 +585,7 @@
                         "enabled": true,
                         "continueOnError": false,
                         "alwaysRun": false,
-                        "displayName": "Get Oldest Sample Folder (Scheduled)",
+                        "displayName": "Get Oldest Sample Folder (If Scheduled)",
                         "timeoutInMinutes": 0,
                         "condition": "and(succeeded(), or(eq(variables['Build.Reason'], 'Schedule'), eq(variables['Build.Reason'], 'Manual')))",
                         "task": {
@@ -552,7 +603,8 @@
                             "showWarnings": "false",
                             "ignoreLASTEXITCODE": "false",
                             "pwsh": "true",
-                            "workingDirectory": ""
+                            "workingDirectory": "",
+                            "runScriptInSeparateScope": "false"
                         }
                     },
                     {
@@ -560,7 +612,7 @@
                         "enabled": true,
                         "continueOnError": true,
                         "alwaysRun": false,
-                        "displayName": "Set Build Number",
+                        "displayName": "Set Build Number (If Scheduled)",
                         "timeoutInMinutes": 0,
                         "condition": "and(succeeded(), or(eq(variables['Build.Reason'], 'Schedule'), eq(variables['Build.Reason'], 'Manual')))",
                         "task": {
@@ -572,13 +624,14 @@
                             "targetType": "inline",
                             "filePath": "",
                             "arguments": "",
-                            "script": "$s = \"$(sample.name)\"\n$s = $s.Replace('\\', '#')\nWrite-Host \"Setting build #: $s\"\nWrite-Host \"##vso[build.updatebuildnumber]($s)\"\n\n",
+                            "script": "$s = \"$(sample.name)\"\n$s = $s.Replace('\\', '#')\nWrite-Host \"Setting build #: $s\"\nWrite-Host \"##vso[build.updatebuildnumber]($s)\"\n",
                             "errorActionPreference": "continue",
                             "failOnStderr": "false",
                             "showWarnings": "false",
                             "ignoreLASTEXITCODE": "false",
                             "pwsh": "true",
-                            "workingDirectory": ""
+                            "workingDirectory": "",
+                            "runScriptInSeparateScope": "false"
                         }
                     },
                     {
@@ -586,7 +639,7 @@
                         "enabled": true,
                         "continueOnError": false,
                         "alwaysRun": false,
-                        "displayName": "Get Sample Folder (Pull Request)",
+                        "displayName": "Get Sample Folder (If Pull Request)",
                         "timeoutInMinutes": 0,
                         "condition": "and(succeeded(), eq(variables['Build.Reason'], 'PullRequest'))",
                         "task": {
@@ -604,33 +657,8 @@
                             "showWarnings": "false",
                             "ignoreLASTEXITCODE": "false",
                             "pwsh": "true",
-                            "workingDirectory": ""
-                        }
-                    },
-                    {
-                        "environment": {},
-                        "enabled": true,
-                        "continueOnError": false,
-                        "alwaysRun": false,
-                        "displayName": "DEBUG: Dump ENV",
-                        "timeoutInMinutes": 0,
-                        "condition": "succeeded()",
-                        "task": {
-                            "id": "e213ff0f-5d5c-4791-802d-52ea3e7be1f1",
-                            "versionSpec": "2.*",
-                            "definitionType": "task"
-                        },
-                        "inputs": {
-                            "targetType": "inline",
-                            "filePath": "",
-                            "arguments": "",
-                            "script": "gci \"env:\"\n\n$ErrorView = \"NormalView\"  # this is required due to a breaking change in the AzDO build image, otherwise, failure flags are not properly set",
-                            "errorActionPreference": "continue",
-                            "failOnStderr": "false",
-                            "showWarnings": "false",
-                            "ignoreLASTEXITCODE": "false",
-                            "pwsh": "true",
-                            "workingDirectory": ""
+                            "workingDirectory": "",
+                            "runScriptInSeparateScope": "false"
                         }
                     },
                     {
@@ -656,7 +684,241 @@
                             "showWarnings": "false",
                             "ignoreLASTEXITCODE": "false",
                             "pwsh": "true",
-                            "workingDirectory": ""
+                            "workingDirectory": "",
+                            "runScriptInSeparateScope": "false"
+                        }
+                    },
+                    {
+                        "environment": {},
+                        "enabled": true,
+                        "continueOnError": false,
+                        "alwaysRun": true,
+                        "displayName": "DEBUG: Dump ENV",
+                        "timeoutInMinutes": 0,
+                        "condition": "succeededOrFailed()",
+                        "task": {
+                            "id": "e213ff0f-5d5c-4791-802d-52ea3e7be1f1",
+                            "versionSpec": "2.*",
+                            "definitionType": "task"
+                        },
+                        "inputs": {
+                            "targetType": "inline",
+                            "filePath": "",
+                            "arguments": "",
+                            "script": "gci \"env:\"\n",
+                            "errorActionPreference": "continue",
+                            "failOnStderr": "false",
+                            "showWarnings": "false",
+                            "ignoreLASTEXITCODE": "false",
+                            "pwsh": "true",
+                            "workingDirectory": "",
+                            "runScriptInSeparateScope": "false"
+                        }
+                    },
+                    {
+                        "environment": {},
+                        "enabled": true,
+                        "continueOnError": true,
+                        "alwaysRun": false,
+                        "displayName": "Misc Label Checks",
+                        "timeoutInMinutes": 0,
+                        "condition": "and(succeeded(), eq(variables['github.enable.labels'], 'true'))",
+                        "task": {
+                            "id": "e213ff0f-5d5c-4791-802d-52ea3e7be1f1",
+                            "versionSpec": "2.*",
+                            "definitionType": "task"
+                        },
+                        "inputs": {
+                            "targetType": "filePath",
+                            "filePath": "$(ttk.folder)\\ci-scripts\\Check-MiscLabels.ps1",
+                            "arguments": "",
+                            "script": "",
+                            "errorActionPreference": "continue",
+                            "failOnStderr": "true",
+                            "showWarnings": "false",
+                            "ignoreLASTEXITCODE": "false",
+                            "pwsh": "true",
+                            "workingDirectory": "",
+                            "runScriptInSeparateScope": "false"
+                        }
+                    },
+                    {
+                        "environment": {},
+                        "enabled": true,
+                        "continueOnError": true,
+                        "alwaysRun": false,
+                        "displayName": "PR label: PORTAL SAMPLE",
+                        "timeoutInMinutes": 0,
+                        "condition": "and(succeeded(), eq(variables['github.enable.labels'], 'true'), eq(variables['IsPortalSample'], 'true'))",
+                        "task": {
+                            "id": "79ae0514-ee91-4a19-ae69-030952b0b23e",
+                            "versionSpec": "0.*",
+                            "definitionType": "task"
+                        },
+                        "inputs": {
+                            "gitHubConnection": "c381556b-c775-4706-9297-23e2d35b5ac6",
+                            "action": "add",
+                            "label": "PORTAL SAMPLE"
+                        }
+                    },
+                    {
+                        "environment": {},
+                        "enabled": true,
+                        "continueOnError": true,
+                        "alwaysRun": false,
+                        "displayName": "PR label: ROOT",
+                        "timeoutInMinutes": 0,
+                        "condition": "and(succeeded(), eq(variables['github.enable.labels'], 'true'), eq(variables['IsRootSample'], 'true'))",
+                        "task": {
+                            "id": "79ae0514-ee91-4a19-ae69-030952b0b23e",
+                            "versionSpec": "0.*",
+                            "definitionType": "task"
+                        },
+                        "inputs": {
+                            "gitHubConnection": "c381556b-c775-4706-9297-23e2d35b5ac6",
+                            "action": "add",
+                            "label": "ROOT"
+                        }
+                    },
+                    {
+                        "environment": {},
+                        "enabled": true,
+                        "continueOnError": true,
+                        "alwaysRun": false,
+                        "displayName": "PR label: ROOT (remove)",
+                        "timeoutInMinutes": 0,
+                        "condition": "and(succeeded(), eq(variables['github.enable.labels'], 'true'), eq(variables['IsRootSample'], 'false'))",
+                        "task": {
+                            "id": "79ae0514-ee91-4a19-ae69-030952b0b23e",
+                            "versionSpec": "0.*",
+                            "definitionType": "task"
+                        },
+                        "inputs": {
+                            "gitHubConnection": "c381556b-c775-4706-9297-23e2d35b5ac6",
+                            "action": "remove",
+                            "label": "ROOT"
+                        }
+                    },
+                    {
+                        "environment": {},
+                        "enabled": true,
+                        "continueOnError": true,
+                        "alwaysRun": false,
+                        "displayName": "PR label: UPPERCASE",
+                        "timeoutInMinutes": 0,
+                        "condition": "and(succeeded(), eq(variables['github.enable.labels'], 'true'), eq(variables['SampleHasUpperCase'], 'true'))",
+                        "task": {
+                            "id": "79ae0514-ee91-4a19-ae69-030952b0b23e",
+                            "versionSpec": "0.*",
+                            "definitionType": "task"
+                        },
+                        "inputs": {
+                            "gitHubConnection": "c381556b-c775-4706-9297-23e2d35b5ac6",
+                            "action": "add",
+                            "label": "UPPERCASE"
+                        }
+                    },
+                    {
+                        "environment": {},
+                        "enabled": true,
+                        "continueOnError": true,
+                        "alwaysRun": false,
+                        "displayName": "PR label: UPPERCASE (remove)",
+                        "timeoutInMinutes": 0,
+                        "condition": "and(succeeded(), eq(variables['github.enable.labels'], 'true'), eq(variables['SampleHasUpperCase'], 'false'))",
+                        "task": {
+                            "id": "79ae0514-ee91-4a19-ae69-030952b0b23e",
+                            "versionSpec": "0.*",
+                            "definitionType": "task"
+                        },
+                        "inputs": {
+                            "gitHubConnection": "c381556b-c775-4706-9297-23e2d35b5ac6",
+                            "action": "remove",
+                            "label": "UPPERCASE"
+                        }
+                    },
+                    {
+                        "environment": {},
+                        "enabled": true,
+                        "continueOnError": true,
+                        "alwaysRun": false,
+                        "displayName": "PR label: manual validation required",
+                        "timeoutInMinutes": 0,
+                        "condition": "and(succeeded(), eq(variables['github.enable.labels'], 'true'), eq(variables['validation.type'], 'Manual'), ne(variables['Build.SourceBranch'], 'refs/heads/master'))",
+                        "task": {
+                            "id": "79ae0514-ee91-4a19-ae69-030952b0b23e",
+                            "versionSpec": "0.*",
+                            "definitionType": "task"
+                        },
+                        "inputs": {
+                            "gitHubConnection": "c381556b-c775-4706-9297-23e2d35b5ac6",
+                            "action": "add",
+                            "label": "manual validation required"
+                        }
+                    },
+                    {
+                        "environment": {},
+                        "enabled": true,
+                        "continueOnError": true,
+                        "alwaysRun": false,
+                        "displayName": "PR label: metadata violations",
+                        "timeoutInMinutes": 0,
+                        "condition": "and(succeeded(), eq(variables['github.enable.labels'], 'true'), eq(variables['result.metadata'], 'FAIL'), ne(variables['Build.SourceBranch'], 'refs/heads/master'))",
+                        "task": {
+                            "id": "79ae0514-ee91-4a19-ae69-030952b0b23e",
+                            "versionSpec": "0.*",
+                            "definitionType": "task"
+                        },
+                        "inputs": {
+                            "gitHubConnection": "c381556b-c775-4706-9297-23e2d35b5ac6",
+                            "action": "add",
+                            "label": "metadata violations"
+                        }
+                    },
+                    {
+                        "environment": {},
+                        "enabled": true,
+                        "continueOnError": true,
+                        "alwaysRun": false,
+                        "displayName": "PR label: metadata violations (remove)",
+                        "timeoutInMinutes": 0,
+                        "condition": "and(succeeded(), eq(variables['github.enable.labels'], 'true'), eq(variables['result.metadata'], 'PASS'), ne(variables['Build.SourceBranch'], 'refs/heads/master'))",
+                        "task": {
+                            "id": "79ae0514-ee91-4a19-ae69-030952b0b23e",
+                            "versionSpec": "0.*",
+                            "definitionType": "task"
+                        },
+                        "inputs": {
+                            "gitHubConnection": "c381556b-c775-4706-9297-23e2d35b5ac6",
+                            "action": "remove",
+                            "label": "metadata violations"
+                        }
+                    },
+                    {
+                        "environment": {},
+                        "enabled": true,
+                        "continueOnError": false,
+                        "alwaysRun": true,
+                        "displayName": "DEBUG: Dump ENV",
+                        "timeoutInMinutes": 0,
+                        "condition": "succeededOrFailed()",
+                        "task": {
+                            "id": "e213ff0f-5d5c-4791-802d-52ea3e7be1f1",
+                            "versionSpec": "2.*",
+                            "definitionType": "task"
+                        },
+                        "inputs": {
+                            "targetType": "inline",
+                            "filePath": "",
+                            "arguments": "",
+                            "script": "gci \"env:\"\n",
+                            "errorActionPreference": "continue",
+                            "failOnStderr": "false",
+                            "showWarnings": "false",
+                            "ignoreLASTEXITCODE": "false",
+                            "pwsh": "true",
+                            "workingDirectory": "",
+                            "runScriptInSeparateScope": "false"
                         }
                     },
                     {
@@ -664,7 +926,126 @@
                         "enabled": true,
                         "continueOnError": false,
                         "alwaysRun": false,
-                        "displayName": "DEBUG: Dump ENV",
+                        "displayName": "Check Language Support (Bicep/JSON)",
+                        "timeoutInMinutes": 0,
+                        "condition": "succeeded()",
+                        "task": {
+                            "id": "e213ff0f-5d5c-4791-802d-52ea3e7be1f1",
+                            "versionSpec": "2.*",
+                            "definitionType": "task"
+                        },
+                        "inputs": {
+                            "targetType": "filePath",
+                            "filePath": "$(ttk.folder)\\ci-scripts\\Check-LanguageSupport.ps1",
+                            "arguments": "",
+                            "script": "",
+                            "errorActionPreference": "stop",
+                            "failOnStderr": "false",
+                            "showWarnings": "false",
+                            "ignoreLASTEXITCODE": "false",
+                            "pwsh": "true",
+                            "workingDirectory": "",
+                            "runScriptInSeparateScope": "false"
+                        }
+                    },
+                    {
+                        "environment": {},
+                        "enabled": true,
+                        "continueOnError": true,
+                        "alwaysRun": false,
+                        "displayName": "Check Bicep Decompile",
+                        "timeoutInMinutes": 0,
+                        "condition": "and(succeeded(), eq(variables['github.enable.labels'], 'true'), eq(variables['bicep.supported'], 'true'), ne(variables['Build.SourceBranch'], 'refs/heads/master'))",
+                        "task": {
+                            "id": "e213ff0f-5d5c-4791-802d-52ea3e7be1f1",
+                            "versionSpec": "2.*",
+                            "definitionType": "task"
+                        },
+                        "inputs": {
+                            "targetType": "filePath",
+                            "filePath": "$(ttk.folder)\\ci-scripts\\Check-BicepDecompile.ps1",
+                            "arguments": "",
+                            "script": "",
+                            "errorActionPreference": "continue",
+                            "failOnStderr": "false",
+                            "showWarnings": "true",
+                            "ignoreLASTEXITCODE": "false",
+                            "pwsh": "true",
+                            "workingDirectory": "",
+                            "runScriptInSeparateScope": "false"
+                        }
+                    },
+                    {
+                        "environment": {},
+                        "enabled": true,
+                        "continueOnError": true,
+                        "alwaysRun": false,
+                        "displayName": "PR label: bicep",
+                        "timeoutInMinutes": 0,
+                        "condition": "and(succeeded(), eq(variables['github.enable.labels'], 'true'), eq(variables['bicep.supported'], 'true'), ne(variables['Build.SourceBranch'], 'refs/heads/master'))",
+                        "task": {
+                            "id": "79ae0514-ee91-4a19-ae69-030952b0b23e",
+                            "versionSpec": "0.*",
+                            "definitionType": "task"
+                        },
+                        "inputs": {
+                            "gitHubConnection": "c381556b-c775-4706-9297-23e2d35b5ac6",
+                            "action": "add",
+                            "label": "bicep"
+                        }
+                    },
+                    {
+                        "environment": {},
+                        "enabled": true,
+                        "continueOnError": true,
+                        "alwaysRun": false,
+                        "displayName": "PR label: bicep decompile",
+                        "timeoutInMinutes": 0,
+                        "condition": "and(succeeded(), eq(variables['github.enable.labels'], 'true'), eq(variables['bicep.supported'], 'true'), eq(variables['bicep.decompile'], 'true'), ne(variables['Build.SourceBranch'], 'refs/heads/master'))",
+                        "task": {
+                            "id": "79ae0514-ee91-4a19-ae69-030952b0b23e",
+                            "versionSpec": "0.*",
+                            "definitionType": "task"
+                        },
+                        "inputs": {
+                            "gitHubConnection": "c381556b-c775-4706-9297-23e2d35b5ac6",
+                            "action": "add",
+                            "label": "bicep-decompile"
+                        }
+                    },
+                    {
+                        "environment": {},
+                        "enabled": true,
+                        "continueOnError": false,
+                        "alwaysRun": false,
+                        "displayName": "BICEP: Install bicep",
+                        "timeoutInMinutes": 0,
+                        "condition": "eq(variables['bicep.supported'], 'true')",
+                        "task": {
+                            "id": "e213ff0f-5d5c-4791-802d-52ea3e7be1f1",
+                            "versionSpec": "2.*",
+                            "definitionType": "task"
+                        },
+                        "inputs": {
+                            "targetType": "inline",
+                            "filePath": "",
+                            "arguments": "",
+                            "script": "$(ttk.folder)\\ci-scripts\\Install-Bicep.ps1\n",
+                            "errorActionPreference": "continue",
+                            "failOnStderr": "true",
+                            "showWarnings": "false",
+                            "ignoreLASTEXITCODE": "false",
+                            "pwsh": "true",
+                            "workingDirectory": "",
+                            "runScriptInSeparateScope": "false"
+                        }
+                    },
+                    {
+                        "environment": {},
+                        "enabled": true,
+                        "continueOnError": true,
+                        "alwaysRun": false,
+                        "displayName": "BICEP: Build and validate main.bicep",
                         "timeoutInMinutes": 0,
                         "condition": "succeeded()",
                         "task": {
@@ -676,13 +1057,106 @@
                             "targetType": "inline",
                             "filePath": "",
                             "arguments": "",
-                            "script": "gci \"env:\"\n\n",
+                            "script": "# If Bicep, build and verify compiled JSON matches included JSON.\n$(ttk.folder)\\ci-scripts\\Validate-DeploymentFile.ps1",
+                            "errorActionPreference": "continue",
+                            "failOnStderr": "true",
+                            "showWarnings": "true",
+                            "ignoreLASTEXITCODE": "false",
+                            "pwsh": "true",
+                            "workingDirectory": "",
+                            "runScriptInSeparateScope": "false"
+                        }
+                    },
+                    {
+                        "environment": {},
+                        "enabled": true,
+                        "continueOnError": false,
+                        "alwaysRun": true,
+                        "displayName": "DEBUG: Dump ENV",
+                        "timeoutInMinutes": 0,
+                        "condition": "succeededOrFailed()",
+                        "task": {
+                            "id": "e213ff0f-5d5c-4791-802d-52ea3e7be1f1",
+                            "versionSpec": "2.*",
+                            "definitionType": "task"
+                        },
+                        "inputs": {
+                            "targetType": "inline",
+                            "filePath": "",
+                            "arguments": "",
+                            "script": "gci \"env:\"\n",
                             "errorActionPreference": "continue",
                             "failOnStderr": "false",
                             "showWarnings": "false",
                             "ignoreLASTEXITCODE": "false",
                             "pwsh": "true",
-                            "workingDirectory": ""
+                            "workingDirectory": "",
+                            "runScriptInSeparateScope": "false"
+                        }
+                    },
+                    {
+                        "environment": {},
+                        "enabled": true,
+                        "continueOnError": true,
+                        "alwaysRun": true,
+                        "displayName": "DEBUG: Dump deployment file",
+                        "timeoutInMinutes": 0,
+                        "condition": "succeededOrFailed()",
+                        "task": {
+                            "id": "e213ff0f-5d5c-4791-802d-52ea3e7be1f1",
+                            "versionSpec": "2.*",
+                            "definitionType": "task"
+                        },
+                        "inputs": {
+                            "targetType": "inline",
+                            "filePath": "",
+                            "arguments": "",
+                            "script": "cat \"$($ENV:SAMPLE_FOLDER)/$(mainTemplate.deployment.filename)\"",
+                            "errorActionPreference": "stop",
+                            "failOnStderr": "false",
+                            "showWarnings": "false",
+                            "ignoreLASTEXITCODE": "false",
+                            "pwsh": "true",
+                            "workingDirectory": "",
+                            "runScriptInSeparateScope": "false"
+                        }
+                    },
+                    {
+                        "environment": {},
+                        "enabled": true,
+                        "continueOnError": false,
+                        "alwaysRun": false,
+                        "displayName": "PR label: bicep errors",
+                        "timeoutInMinutes": 0,
+                        "condition": "and(succeeded(), eq(variables['github.enable.labels'], 'true'), eq(variables['bicep.supported'], 'true'), eq(variables['result.bicep.build'], 'FAIL'), ne(variables['Build.SourceBranch'], 'refs/heads/master'))",
+                        "task": {
+                            "id": "79ae0514-ee91-4a19-ae69-030952b0b23e",
+                            "versionSpec": "0.*",
+                            "definitionType": "task"
+                        },
+                        "inputs": {
+                            "gitHubConnection": "c381556b-c775-4706-9297-23e2d35b5ac6",
+                            "action": "add",
+                            "label": "bicep errors"
+                        }
+                    },
+                    {
+                        "environment": {},
+                        "enabled": true,
+                        "continueOnError": true,
+                        "alwaysRun": false,
+                        "displayName": "PR label: bicep errors (remove)",
+                        "timeoutInMinutes": 0,
+                        "condition": "and(succeeded(), eq(variables['github.enable.labels'], 'true'), eq(variables['bicep.supported'], 'true'), eq(variables['result.bicep.build'], 'PASS'), ne(variables['Build.SourceBranch'], 'refs/heads/master'))",
+                        "task": {
+                            "id": "79ae0514-ee91-4a19-ae69-030952b0b23e",
+                            "versionSpec": "0.*",
+                            "definitionType": "task"
+                        },
+                        "inputs": {
+                            "gitHubConnection": "c381556b-c775-4706-9297-23e2d35b5ac6",
+                            "action": "remove",
+                            "label": "bicep errors"
                         }
                     },
                     {
@@ -692,14 +1166,14 @@
                         "alwaysRun": false,
                         "displayName": "PR comment (doc owner)",
                         "timeoutInMinutes": 0,
-                        "condition": "and(succeeded(), eq(variables['Build.Reason'], 'PullRequest'), ne(variables['docOwner.message'], ''))",
+                        "condition": "and(succeeded(), eq(variables['github.enable.comments'], 'true'), eq(variables['Build.Reason'], 'PullRequest'), ne(variables['docOwner.message'], ''))",
                         "task": {
                             "id": "deea6198-adf8-4b16-9939-7addf85708b2",
                             "versionSpec": "0.*",
                             "definitionType": "task"
                         },
                         "inputs": {
-                            "gitHubConnection": "9d87270a-7fc7-43db-bf57-09f9f4e8879b",
+                            "gitHubConnection": "c381556b-c775-4706-9297-23e2d35b5ac6",
                             "repositoryName": "$(Build.Repository.Name)",
                             "id": "$(System.PullRequest.PullRequestNumber)",
                             "comment": "$(docOwner.message)"
@@ -710,7 +1184,7 @@
                         "enabled": true,
                         "continueOnError": false,
                         "alwaysRun": false,
-                        "displayName": "Check to see if this is a MOVE: PR",
+                        "displayName": "Is MOVE: PR?",
                         "timeoutInMinutes": 0,
                         "condition": "and(succeeded(), eq(variables['build.reason'], 'PullRequest'))",
                         "task": {
@@ -728,33 +1202,8 @@
                             "showWarnings": "false",
                             "ignoreLASTEXITCODE": "false",
                             "pwsh": "true",
-                            "workingDirectory": ""
-                        }
-                    },
-                    {
-                        "environment": {},
-                        "enabled": true,
-                        "continueOnError": false,
-                        "alwaysRun": false,
-                        "displayName": "DEBUG: Dump ENV copy",
-                        "timeoutInMinutes": 0,
-                        "condition": "succeeded()",
-                        "task": {
-                            "id": "e213ff0f-5d5c-4791-802d-52ea3e7be1f1",
-                            "versionSpec": "2.*",
-                            "definitionType": "task"
-                        },
-                        "inputs": {
-                            "targetType": "inline",
-                            "filePath": "",
-                            "arguments": "",
-                            "script": "gci \"env:\"\n\n",
-                            "errorActionPreference": "continue",
-                            "failOnStderr": "false",
-                            "showWarnings": "false",
-                            "ignoreLASTEXITCODE": "false",
-                            "pwsh": "true",
-                            "workingDirectory": ""
+                            "workingDirectory": "",
+                            "runScriptInSeparateScope": "false"
                         }
                     },
                     {
@@ -764,14 +1213,14 @@
                         "alwaysRun": false,
                         "displayName": "Ping mumian",
                         "timeoutInMinutes": 0,
-                        "condition": "and(succeeded(), eq(variables['pingTom'], 'YES'))",
+                        "condition": "and(succeeded(), eq(variables['github.enable.comments'], 'true'), eq(variables['pingTom'], 'YES'))",
                         "task": {
                             "id": "deea6198-adf8-4b16-9939-7addf85708b2",
                             "versionSpec": "0.*",
                             "definitionType": "task"
                         },
                         "inputs": {
-                            "gitHubConnection": "9d87270a-7fc7-43db-bf57-09f9f4e8879b",
+                            "gitHubConnection": "c381556b-c775-4706-9297-23e2d35b5ac6",
                             "repositoryName": "$(Build.Repository.Name)",
                             "id": "$(System.PullRequest.PullRequestNumber)",
                             "comment": "@mumian - this appears to be a \"Move\" that will need a manual doc update"
@@ -784,14 +1233,14 @@
                         "alwaysRun": false,
                         "displayName": "Ping TomFitz re: moving a sample used in docs copy",
                         "timeoutInMinutes": 0,
-                        "condition": "and(succeeded(), eq(variables['pingTom'], 'YES'))",
+                        "condition": "and(succeeded(), eq(variables['github.enable.comments'], 'true'), eq(variables['pingTom'], 'YES'))",
                         "task": {
                             "id": "deea6198-adf8-4b16-9939-7addf85708b2",
                             "versionSpec": "0.*",
                             "definitionType": "task"
                         },
                         "inputs": {
-                            "gitHubConnection": "9d87270a-7fc7-43db-bf57-09f9f4e8879b",
+                            "gitHubConnection": "c381556b-c775-4706-9297-23e2d35b5ac6",
                             "repositoryName": "$(Build.Repository.Name)",
                             "id": "$(System.PullRequest.PullRequestNumber)",
                             "comment": "@tfitzmac - this appears to be a \"Move\" that will need a manual doc update"
@@ -800,58 +1249,28 @@
                     {
                         "environment": {},
                         "enabled": true,
-                        "continueOnError": true,
-                        "alwaysRun": false,
-                        "displayName": "PR label (add manual validation)",
+                        "continueOnError": false,
+                        "alwaysRun": true,
+                        "displayName": "DEBUG: Dump ENV",
                         "timeoutInMinutes": 0,
-                        "condition": "and(succeeded(), eq(variables['validation.type'], 'Manual'), ne(variables['Build.SourceBranch'], 'refs/heads/master'))",
+                        "condition": "succeededOrFailed()",
                         "task": {
-                            "id": "79ae0514-ee91-4a19-ae69-030952b0b23e",
-                            "versionSpec": "0.*",
+                            "id": "e213ff0f-5d5c-4791-802d-52ea3e7be1f1",
+                            "versionSpec": "2.*",
                             "definitionType": "task"
                         },
                         "inputs": {
-                            "gitHubConnection": "9d87270a-7fc7-43db-bf57-09f9f4e8879b",
-                            "action": "add",
-                            "label": "manual validation"
-                        }
-                    },
-                    {
-                        "environment": {},
-                        "enabled": true,
-                        "continueOnError": true,
-                        "alwaysRun": false,
-                        "displayName": "PR label (add metadata)",
-                        "timeoutInMinutes": 0,
-                        "condition": "and(succeeded(), eq(variables['result.metadata'], 'FAIL'), ne(variables['Build.SourceBranch'], 'refs/heads/master'))",
-                        "task": {
-                            "id": "79ae0514-ee91-4a19-ae69-030952b0b23e",
-                            "versionSpec": "0.*",
-                            "definitionType": "task"
-                        },
-                        "inputs": {
-                            "gitHubConnection": "9d87270a-7fc7-43db-bf57-09f9f4e8879b",
-                            "action": "add",
-                            "label": "metadata"
-                        }
-                    },
-                    {
-                        "environment": {},
-                        "enabled": true,
-                        "continueOnError": true,
-                        "alwaysRun": false,
-                        "displayName": "PR label (remove metadata)",
-                        "timeoutInMinutes": 0,
-                        "condition": "and(succeeded(), eq(variables['result.metadata'], 'PASS'), ne(variables['Build.SourceBranch'], 'refs/heads/master'))",
-                        "task": {
-                            "id": "79ae0514-ee91-4a19-ae69-030952b0b23e",
-                            "versionSpec": "0.*",
-                            "definitionType": "task"
-                        },
-                        "inputs": {
-                            "gitHubConnection": "9d87270a-7fc7-43db-bf57-09f9f4e8879b",
-                            "action": "remove",
-                            "label": "metadata"
+                            "targetType": "inline",
+                            "filePath": "",
+                            "arguments": "",
+                            "script": "gci \"env:\"\n",
+                            "errorActionPreference": "continue",
+                            "failOnStderr": "false",
+                            "showWarnings": "false",
+                            "ignoreLASTEXITCODE": "false",
+                            "pwsh": "true",
+                            "workingDirectory": "",
+                            "runScriptInSeparateScope": "false"
                         }
                     },
                     {
@@ -877,17 +1296,56 @@
                             "showWarnings": "false",
                             "ignoreLASTEXITCODE": "false",
                             "pwsh": "true",
-                            "workingDirectory": ""
+                            "workingDirectory": "",
+                            "runScriptInSeparateScope": "false"
+                        }
+                    },
+                    {
+                        "environment": {},
+                        "enabled": true,
+                        "continueOnError": true,
+                        "alwaysRun": false,
+                        "displayName": "PR label: readme violations",
+                        "timeoutInMinutes": 0,
+                        "condition": "and(succeeded(), eq(variables['github.enable.labels'], 'true'), eq(variables['result.readme'], 'FAIL'), ne(variables['Build.SourceBranch'], 'refs/heads/master'))",
+                        "task": {
+                            "id": "79ae0514-ee91-4a19-ae69-030952b0b23e",
+                            "versionSpec": "0.*",
+                            "definitionType": "task"
+                        },
+                        "inputs": {
+                            "gitHubConnection": "c381556b-c775-4706-9297-23e2d35b5ac6",
+                            "action": "add",
+                            "label": "readme violations"
+                        }
+                    },
+                    {
+                        "environment": {},
+                        "enabled": true,
+                        "continueOnError": true,
+                        "alwaysRun": false,
+                        "displayName": "PR label: readme violations (remove)",
+                        "timeoutInMinutes": 0,
+                        "condition": "and(succeeded(), eq(variables['github.enable.labels'], 'true'), eq(variables['result.readme'], 'PASS'), ne(variables['Build.SourceBranch'], 'refs/heads/master'))",
+                        "task": {
+                            "id": "79ae0514-ee91-4a19-ae69-030952b0b23e",
+                            "versionSpec": "0.*",
+                            "definitionType": "task"
+                        },
+                        "inputs": {
+                            "gitHubConnection": "c381556b-c775-4706-9297-23e2d35b5ac6",
+                            "action": "remove",
+                            "label": "readme violations"
                         }
                     },
                     {
                         "environment": {},
                         "enabled": true,
                         "continueOnError": false,
-                        "alwaysRun": false,
-                        "displayName": "DEBUG: Dump ENV",
+                        "alwaysRun": true,
+                        "displayName": "DEBUG: DIR sample folder",
                         "timeoutInMinutes": 0,
-                        "condition": "succeeded()",
+                        "condition": "succeededOrFailed()",
                         "task": {
                             "id": "e213ff0f-5d5c-4791-802d-52ea3e7be1f1",
                             "versionSpec": "2.*",
@@ -897,51 +1355,14 @@
                             "targetType": "inline",
                             "filePath": "",
                             "arguments": "",
-                            "script": "gci \"env:\"\n\n",
+                            "script": "dir $(sample.folder)",
                             "errorActionPreference": "continue",
                             "failOnStderr": "false",
                             "showWarnings": "false",
                             "ignoreLASTEXITCODE": "false",
                             "pwsh": "true",
-                            "workingDirectory": ""
-                        }
-                    },
-                    {
-                        "environment": {},
-                        "enabled": true,
-                        "continueOnError": true,
-                        "alwaysRun": false,
-                        "displayName": "PR label (add readme)",
-                        "timeoutInMinutes": 0,
-                        "condition": "and(succeeded(), eq(variables['result.readme'], 'FAIL'), ne(variables['Build.SourceBranch'], 'refs/heads/master'))",
-                        "task": {
-                            "id": "79ae0514-ee91-4a19-ae69-030952b0b23e",
-                            "versionSpec": "0.*",
-                            "definitionType": "task"
-                        },
-                        "inputs": {
-                            "gitHubConnection": "9d87270a-7fc7-43db-bf57-09f9f4e8879b",
-                            "action": "add",
-                            "label": "readme"
-                        }
-                    },
-                    {
-                        "environment": {},
-                        "enabled": true,
-                        "continueOnError": true,
-                        "alwaysRun": false,
-                        "displayName": "PR label (remove readme)",
-                        "timeoutInMinutes": 0,
-                        "condition": "and(succeeded(), eq(variables['result.readme'], 'PASS'), ne(variables['Build.SourceBranch'], 'refs/heads/master'))",
-                        "task": {
-                            "id": "79ae0514-ee91-4a19-ae69-030952b0b23e",
-                            "versionSpec": "0.*",
-                            "definitionType": "task"
-                        },
-                        "inputs": {
-                            "gitHubConnection": "9d87270a-7fc7-43db-bf57-09f9f4e8879b",
-                            "action": "remove",
-                            "label": "readme"
+                            "workingDirectory": "",
+                            "runScriptInSeparateScope": "false"
                         }
                     },
                     {
@@ -961,13 +1382,41 @@
                             "targetType": "inline",
                             "filePath": "",
                             "arguments": "",
-                            "script": "Import-Module $(ttk.folder)/arm-ttk/arm-ttk.psd1 -Verbose\n$testOutput = @(Test-AzTemplate -TemplatePath \"$(sample.folder)\")\n$testOutput\n\nif ($testOutput | ? {$_.Errors }) {\n   exit 1 \n} else {\n    Write-Host \"##vso[task.setvariable variable=result.best.practice]$true\"\n    exit 0\n} \n",
+                            "script": "$(ttk.folder)\\ci-scripts\\Test-BestPractices.ps1",
                             "errorActionPreference": "continue",
                             "failOnStderr": "true",
                             "showWarnings": "false",
                             "ignoreLASTEXITCODE": "false",
                             "pwsh": "true",
-                            "workingDirectory": ""
+                            "workingDirectory": "",
+                            "runScriptInSeparateScope": "false"
+                        }
+                    },
+                    {
+                        "environment": {},
+                        "enabled": true,
+                        "continueOnError": false,
+                        "alwaysRun": true,
+                        "displayName": "DEBUG: Dump ENV",
+                        "timeoutInMinutes": 0,
+                        "condition": "succeededOrFailed()",
+                        "task": {
+                            "id": "e213ff0f-5d5c-4791-802d-52ea3e7be1f1",
+                            "versionSpec": "2.*",
+                            "definitionType": "task"
+                        },
+                        "inputs": {
+                            "targetType": "inline",
+                            "filePath": "",
+                            "arguments": "",
+                            "script": "gci \"env:\"\n",
+                            "errorActionPreference": "continue",
+                            "failOnStderr": "false",
+                            "showWarnings": "false",
+                            "ignoreLASTEXITCODE": "false",
+                            "pwsh": "true",
+                            "workingDirectory": "",
+                            "runScriptInSeparateScope": "false"
                         }
                     },
                     {
@@ -975,18 +1424,18 @@
                         "enabled": true,
                         "continueOnError": true,
                         "alwaysRun": false,
-                        "displayName": "PR label (add best practices)",
+                        "displayName": "PR label: best practices violations",
                         "timeoutInMinutes": 0,
-                        "condition": "and(succeeded(), eq(variables['result.best.practice'], 'FAIL'), ne(variables['Build.SourceBranch'], 'refs/heads/master'))",
+                        "condition": "and(succeeded(), eq(variables['github.enable.labels'], 'true'), eq(variables['result.best.practice'], 'FAIL'), ne(variables['Build.SourceBranch'], 'refs/heads/master'))",
                         "task": {
                             "id": "79ae0514-ee91-4a19-ae69-030952b0b23e",
                             "versionSpec": "0.*",
                             "definitionType": "task"
                         },
                         "inputs": {
-                            "gitHubConnection": "9d87270a-7fc7-43db-bf57-09f9f4e8879b",
+                            "gitHubConnection": "c381556b-c775-4706-9297-23e2d35b5ac6",
                             "action": "add",
-                            "label": "best practices"
+                            "label": "best practices violations"
                         }
                     },
                     {
@@ -994,18 +1443,18 @@
                         "enabled": true,
                         "continueOnError": true,
                         "alwaysRun": false,
-                        "displayName": "PR label (remove best practices)",
+                        "displayName": "PR label: best practices violations (remove)",
                         "timeoutInMinutes": 0,
-                        "condition": "and(succeeded(), eq(variables['result.best.practice'], 'true'), ne(variables['Build.SourceBranch'], 'refs/heads/master'))",
+                        "condition": "and(succeeded(), eq(variables['github.enable.labels'], 'true'), eq(variables['result.best.practice'], 'true'), ne(variables['Build.SourceBranch'], 'refs/heads/master'))",
                         "task": {
                             "id": "79ae0514-ee91-4a19-ae69-030952b0b23e",
                             "versionSpec": "0.*",
                             "definitionType": "task"
                         },
                         "inputs": {
-                            "gitHubConnection": "9d87270a-7fc7-43db-bf57-09f9f4e8879b",
+                            "gitHubConnection": "c381556b-c775-4706-9297-23e2d35b5ac6",
                             "action": "remove",
-                            "label": "best practices"
+                            "label": "best practices violations"
                         }
                     },
                     {
@@ -1013,7 +1462,34 @@
                         "enabled": true,
                         "continueOnError": false,
                         "alwaysRun": false,
-                        "displayName": "Generate RG Names and Check for Prereqs",
+                        "displayName": "Check for Prereqs",
+                        "timeoutInMinutes": 0,
+                        "condition": "and(succeeded(), ne(variables['result.deployment'], 'Not Supported'), ne(variables['validation.type'], 'Manual'))",
+                        "task": {
+                            "id": "e213ff0f-5d5c-4791-802d-52ea3e7be1f1",
+                            "versionSpec": "2.*",
+                            "definitionType": "task"
+                        },
+                        "inputs": {
+                            "targetType": "filePath",
+                            "filePath": "$(ttk.folder)\\ci-scripts\\Check-Prereqs.ps1",
+                            "arguments": "",
+                            "script": "",
+                            "errorActionPreference": "continue",
+                            "failOnStderr": "false",
+                            "showWarnings": "false",
+                            "ignoreLASTEXITCODE": "false",
+                            "pwsh": "true",
+                            "workingDirectory": "",
+                            "runScriptInSeparateScope": "false"
+                        }
+                    },
+                    {
+                        "environment": {},
+                        "enabled": true,
+                        "continueOnError": false,
+                        "alwaysRun": false,
+                        "displayName": "Generate RG Names",
                         "timeoutInMinutes": 0,
                         "condition": "and(succeeded(), ne(variables['result.deployment'], 'Not Supported'), ne(variables['validation.type'], 'Manual'))",
                         "task": {
@@ -1031,7 +1507,8 @@
                             "showWarnings": "false",
                             "ignoreLASTEXITCODE": "false",
                             "pwsh": "true",
-                            "workingDirectory": ""
+                            "workingDirectory": "",
+                            "runScriptInSeparateScope": "false"
                         }
                     },
                     {
@@ -1057,7 +1534,8 @@
                             "showWarnings": "false",
                             "ignoreLASTEXITCODE": "false",
                             "pwsh": "true",
-                            "workingDirectory": ""
+                            "workingDirectory": "",
+                            "runScriptInSeparateScope": "false"
                         }
                     },
                     {
@@ -1083,7 +1561,35 @@
                             "showWarnings": "false",
                             "ignoreLASTEXITCODE": "false",
                             "pwsh": "true",
-                            "workingDirectory": ""
+                            "workingDirectory": "",
+                            "runScriptInSeparateScope": "false"
+                        }
+                    },
+                    {
+                        "environment": {},
+                        "enabled": true,
+                        "continueOnError": false,
+                        "alwaysRun": false,
+                        "displayName": "Sleep (wait for roleAssignment to replicate)",
+                        "timeoutInMinutes": 0,
+                        "condition": "and(succeeded(), ne(variables['result.deployment'], 'Not Supported'), ne(variables['validation.type'], 'Manual'))",
+                        "task": {
+                            "id": "e213ff0f-5d5c-4791-802d-52ea3e7be1f1",
+                            "versionSpec": "2.*",
+                            "definitionType": "task"
+                        },
+                        "inputs": {
+                            "targetType": "inline",
+                            "filePath": "",
+                            "arguments": "",
+                            "script": "Write-Host \"Sleeping for $(wait.role.assignment.seconds) seconds...\"\nStart-Sleep $(wait.role.assignment.seconds)",
+                            "errorActionPreference": "continue",
+                            "failOnStderr": "false",
+                            "showWarnings": "false",
+                            "ignoreLASTEXITCODE": "false",
+                            "pwsh": "false",
+                            "workingDirectory": "",
+                            "runScriptInSeparateScope": "false"
                         }
                     },
                     {
@@ -1109,7 +1615,8 @@
                             "showWarnings": "false",
                             "ignoreLASTEXITCODE": "false",
                             "pwsh": "true",
-                            "workingDirectory": ""
+                            "workingDirectory": "",
+                            "runScriptInSeparateScope": "false"
                         }
                     },
                     {
@@ -1135,7 +1642,8 @@
                             "showWarnings": "false",
                             "ignoreLASTEXITCODE": "false",
                             "pwsh": "true",
-                            "workingDirectory": ""
+                            "workingDirectory": "",
+                            "runScriptInSeparateScope": "false"
                         }
                     },
                     {
@@ -1161,7 +1669,8 @@
                             "showWarnings": "false",
                             "ignoreLASTEXITCODE": "false",
                             "pwsh": "true",
-                            "workingDirectory": ""
+                            "workingDirectory": "",
+                            "runScriptInSeparateScope": "false"
                         }
                     },
                     {
@@ -1169,7 +1678,7 @@
                         "enabled": true,
                         "continueOnError": false,
                         "alwaysRun": false,
-                        "displayName": "Deploy Template (prereqs)",
+                        "displayName": "Deploy Prerequisites",
                         "timeoutInMinutes": 0,
                         "condition": "and(succeeded(), eq(variables['deploy.prereqs'], 'true'), ne(variables['result.deployment'], 'Not Supported'), ne(variables['validation.type'], 'Manual'))",
                         "task": {
@@ -1180,14 +1689,15 @@
                         "inputs": {
                             "targetType": "filePath",
                             "filePath": "$(ttk.folder)\\Deploy-AzTemplate.ps1",
-                            "arguments": "-ArtifactStagingDirectory \"$(sample.folder)\\prereqs\" -Location \"$(Location)\" -ResourceGroupName \"$(prereq.resourceGroup.name)\" -TemplateParametersFile \"$(sample.folder)\\prereqs\\$(gen.prereq.parameters.filename)\" -DeploymentName \"$(prereq.deployment.name)\" -TemplateFile \"$(sample.folder)\\prereqs\\prereq.azuredeploy.json\"",
+                            "arguments": "-ArtifactStagingDirectory \"$(sample.folder)\\prereqs\" -Location \"$(Location)\" -ResourceGroupName \"$(prereq.resourceGroup.name)\" -TemplateParametersFile \"$(sample.folder)\\prereqs\\$(gen.prereq.parameters.filename)\" -DeploymentName \"$(prereq.deployment.name)\" -TemplateFile \"$(prereq.template.fullpath)\"",
                             "script": "",
                             "errorActionPreference": "stop",
                             "failOnStderr": "false",
                             "showWarnings": "false",
                             "ignoreLASTEXITCODE": "false",
                             "pwsh": "true",
-                            "workingDirectory": ""
+                            "workingDirectory": "",
+                            "runScriptInSeparateScope": "false"
                         }
                     },
                     {
@@ -1213,7 +1723,8 @@
                             "showWarnings": "false",
                             "ignoreLASTEXITCODE": "false",
                             "pwsh": "true",
-                            "workingDirectory": ""
+                            "workingDirectory": "",
+                            "runScriptInSeparateScope": "false"
                         }
                     },
                     {
@@ -1239,7 +1750,8 @@
                             "showWarnings": "false",
                             "ignoreLASTEXITCODE": "false",
                             "pwsh": "true",
-                            "workingDirectory": ""
+                            "workingDirectory": "",
+                            "runScriptInSeparateScope": "false"
                         }
                     },
                     {
@@ -1265,7 +1777,8 @@
                             "showWarnings": "false",
                             "ignoreLASTEXITCODE": "false",
                             "pwsh": "true",
-                            "workingDirectory": ""
+                            "workingDirectory": "",
+                            "runScriptInSeparateScope": "false"
                         }
                     },
                     {
@@ -1285,13 +1798,14 @@
                             "targetType": "inline",
                             "filePath": "",
                             "arguments": "",
-                            "script": "Write-Output(Get-Content \"$(sample.folder)\\$(gen.parameters.filename)\" -Raw)",
+                            "script": "Write-Output (Get-Content \"$(sample.folder)\\$(gen.parameters.filename)\" -Raw)",
                             "errorActionPreference": "stop",
                             "failOnStderr": "false",
                             "showWarnings": "false",
                             "ignoreLASTEXITCODE": "false",
                             "pwsh": "true",
-                            "workingDirectory": ""
+                            "workingDirectory": "",
+                            "runScriptInSeparateScope": "false"
                         }
                     },
                     {
@@ -1311,13 +1825,14 @@
                             "targetType": "inline",
                             "filePath": "",
                             "arguments": "",
-                            "script": "$(ttk.folder)\\Deploy-AzTemplate.ps1 `\n    -ArtifactStagingDirectory \"$(sample.folder)\" `\n    -Location \"$(Location)\" `\n    -ResourceGroupName \"$(resourceGroup.name)\" `\n    -TemplateParametersFile \"$(sample.folder)\\$(gen.parameters.filename)\" `\n    -DeploymentName \"$(mainTemplate.deployment.name)\"\n\nWrite-Host \"##vso[task.setvariable variable=result.deployment]$true\"\n\n",
+                            "script": "$(ttk.folder)\\Deploy-AzTemplate.ps1 `\n    -ArtifactStagingDirectory \"$(sample.folder)\" `\n    -TemplateFile \"$(sample.folder)\\$(mainTemplate.deployment.filename)\" `\n    -Location \"$(Location)\" `\n    -ResourceGroupName \"$(resourceGroup.name)\" `\n    -TemplateParametersFile \"$(sample.folder)\\$(gen.parameters.filename)\" `\n    -DeploymentName \"$(mainTemplate.deployment.name)\"\n\nWrite-Host \"##vso[task.setvariable variable=result.deployment]$true\"\n",
                             "errorActionPreference": "stop",
                             "failOnStderr": "false",
                             "showWarnings": "false",
                             "ignoreLASTEXITCODE": "false",
                             "pwsh": "true",
-                            "workingDirectory": ""
+                            "workingDirectory": "",
+                            "runScriptInSeparateScope": "false"
                         }
                     },
                     {
@@ -1336,24 +1851,25 @@
                         "inputs": {
                             "targetType": "filePath",
                             "filePath": "$(ttk.folder)/ci-scripts/ConnectTo-Azure.ps1",
-                            "arguments": "-appId $(app.id.admin) -secret \"$(app.secret.admin)\" -tenantId $(tenant.id) -subscriptionId $(subscription.id)",
+                            "arguments": "-appId $(app.id.admin) -secret \"$(app.secret.admin)\" -tenantId $(tenant.id) -subscriptionId $(subscription.id) -Environment $(environment)",
                             "script": "",
                             "errorActionPreference": "stop",
                             "failOnStderr": "false",
                             "showWarnings": "false",
                             "ignoreLASTEXITCODE": "false",
                             "pwsh": "true",
-                            "workingDirectory": ""
+                            "workingDirectory": "",
+                            "runScriptInSeparateScope": "false"
                         }
                     },
                     {
                         "environment": {},
-                        "enabled": false,
-                        "continueOnError": true,
-                        "alwaysRun": false,
-                        "displayName": "What-If (prereqs)",
+                        "enabled": true,
+                        "continueOnError": false,
+                        "alwaysRun": true,
+                        "displayName": "DEBUG: Dump ENV",
                         "timeoutInMinutes": 0,
-                        "condition": "and(succeeded(), eq(variables['deploy.prereqs'], 'true'), ne(variables['result.deployment'], 'Not Supported'), ne(variables['validation.type'], 'Manual'))",
+                        "condition": "succeededOrFailed()",
                         "task": {
                             "id": "e213ff0f-5d5c-4791-802d-52ea3e7be1f1",
                             "versionSpec": "2.*",
@@ -1363,65 +1879,14 @@
                             "targetType": "inline",
                             "filePath": "",
                             "arguments": "",
-                            "script": "New-AzResourceGroupDeployment -ResourceGroupName \"$(prereq.resourceGroup.name)\" `\n    -TemplateFile \"$(sample.folder)\\prereqs\\prereq.azuredeploy.json\" `\n    -TemplateParameterFile \"$(sample.folder)\\prereqs\\$(gen.prereq.parameters.filename)\" `\n    -WhatIf \n",
+                            "script": "gci \"env:\"\n",
                             "errorActionPreference": "continue",
                             "failOnStderr": "false",
                             "showWarnings": "false",
                             "ignoreLASTEXITCODE": "false",
                             "pwsh": "true",
-                            "workingDirectory": ""
-                        }
-                    },
-                    {
-                        "environment": {},
-                        "enabled": false,
-                        "continueOnError": true,
-                        "alwaysRun": false,
-                        "displayName": "What-If",
-                        "timeoutInMinutes": 0,
-                        "condition": "succeeded()",
-                        "task": {
-                            "id": "e213ff0f-5d5c-4791-802d-52ea3e7be1f1",
-                            "versionSpec": "2.*",
-                            "definitionType": "task"
-                        },
-                        "inputs": {
-                            "targetType": "inline",
-                            "filePath": "",
-                            "arguments": "",
-                            "script": "New-AzResourceGroupDeployment -ResourceGroupName \"$(resourceGroup.name)\" `\n    -TemplateFile \"$(sample.folder)\\azuredeploy.json\" `\n    -TemplateParameterFile \"$(sample.folder)\\$(gen.parameters.filename)\" `\n    -WhatIf \n",
-                            "errorActionPreference": "continue",
-                            "failOnStderr": "false",
-                            "showWarnings": "false",
-                            "ignoreLASTEXITCODE": "false",
-                            "pwsh": "true",
-                            "workingDirectory": ""
-                        }
-                    },
-                    {
-                        "environment": {},
-                        "enabled": false,
-                        "continueOnError": true,
-                        "alwaysRun": false,
-                        "displayName": "What-If (Upload Results)",
-                        "timeoutInMinutes": 0,
-                        "condition": "succeeded()",
-                        "task": {
-                            "id": "e213ff0f-5d5c-4791-802d-52ea3e7be1f1",
-                            "versionSpec": "2.*",
-                            "definitionType": "task"
-                        },
-                        "inputs": {
-                            "targetType": "filePath",
-                            "filePath": "$(ttk.folder)\\ci-scripts\\Run-WhatIf.ps1",
-                            "arguments": "-uploadResults -StorageAccountKey $(storage.account.key)",
-                            "script": "",
-                            "errorActionPreference": "continue",
-                            "failOnStderr": "false",
-                            "showWarnings": "false",
-                            "ignoreLASTEXITCODE": "false",
-                            "pwsh": "true",
-                            "workingDirectory": ""
+                            "workingDirectory": "",
+                            "runScriptInSeparateScope": "false"
                         }
                     },
                     {
@@ -1447,7 +1912,8 @@
                             "showWarnings": "false",
                             "ignoreLASTEXITCODE": "false",
                             "pwsh": "true",
-                            "workingDirectory": ""
+                            "workingDirectory": "",
+                            "runScriptInSeparateScope": "false"
                         }
                     },
                     {
@@ -1473,7 +1939,8 @@
                             "showWarnings": "false",
                             "ignoreLASTEXITCODE": "false",
                             "pwsh": "true",
-                            "workingDirectory": ""
+                            "workingDirectory": "",
+                            "runScriptInSeparateScope": "false"
                         }
                     },
                     {
@@ -1499,7 +1966,8 @@
                             "showWarnings": "false",
                             "ignoreLASTEXITCODE": "false",
                             "pwsh": "true",
-                            "workingDirectory": ""
+                            "workingDirectory": "",
+                            "runScriptInSeparateScope": "false"
                         }
                     }
                 ],
@@ -1517,11 +1985,6 @@
                 "jobTimeoutInMinutes": 360
             }
         ],
-        "target": {
-            "agentSpecification": {
-                "identifier": "windows-2019"
-            }
-        },
         "type": 1
     },
     "repository": {
@@ -1529,13 +1992,13 @@
             "apiUrl": "https://api.github.com/repos/Azure/azure-quickstart-templates",
             "branchesUrl": "https://api.github.com/repos/Azure/azure-quickstart-templates/branches",
             "cloneUrl": "https://github.com/Azure/azure-quickstart-templates.git",
-            "connectedServiceId": "50e33d0b-fa1f-4db0-9552-57d2ccb899a3",
+            "connectedServiceId": "eae281a4-7f99-47d5-bbd4-2ec4d0d0f865",
             "defaultBranch": "master",
             "fullName": "Azure/azure-quickstart-templates",
             "hasAdminPermissions": "False",
             "isFork": "False",
             "isPrivate": "False",
-            "lastUpdated": "04/27/2021 14:54:27",
+            "lastUpdated": "07/21/2021 14:19:39",
             "manageUrl": "https://github.com/Azure/azure-quickstart-templates",
             "nodeId": "MDEwOlJlcG9zaXRvcnkzNDQwNzY1MQ==",
             "ownerId": "6844498",
@@ -1549,7 +2012,7 @@
             "ownerIsAUser": "False",
             "checkoutNestedSubmodules": "false",
             "cleanOptions": "0",
-            "fetchDepth": "0",
+            "fetchDepth": "1",
             "gitLfsSupport": "false",
             "reportBuildStatus": "true",
             "skipSyncSource": "false",
@@ -1567,43 +2030,28 @@
     "processParameters": {},
     "quality": 1,
     "authoredBy": {
-        "displayName": "Brian Moore (AZURE RESOURCE MANAGER)",
-        "url": "https://spsprodcus1.vssps.visualstudio.com/Ac8aef736-af44-4df8-8ee0-e3f71ba093b7/_apis/Identities/a776ea98-0041-458d-a782-55b352492e1e",
+        "displayName": "Stephen Weatherford",
+        "url": "https://spsprodcus1.vssps.visualstudio.com/Ac8aef736-af44-4df8-8ee0-e3f71ba093b7/_apis/Identities/5ccdb3f3-0839-677f-ba16-981fe10b5b67",
         "_links": {
             "avatar": {
-                "href": "https://dev.azure.com/azurequickstarts/_apis/GraphProfile/MemberAvatars/aad.ZmNkYzI4MmEtZTY1My03M2Y5LThkNTgtYzgwMTY1ZDM1NTRk"
+                "href": "https://dev.azure.com/azurequickstarts/_apis/GraphProfile/MemberAvatars/aad.NWNjZGIzZjMtMDgzOS03NzdmLWJhMTYtOTgxZmUxMGI1YjY3"
             }
         },
-        "id": "a776ea98-0041-458d-a782-55b352492e1e",
-        "uniqueName": "bmoore@microsoft.com",
-        "imageUrl": "https://dev.azure.com/azurequickstarts/_apis/GraphProfile/MemberAvatars/aad.ZmNkYzI4MmEtZTY1My03M2Y5LThkNTgtYzgwMTY1ZDM1NTRk",
-        "descriptor": "aad.ZmNkYzI4MmEtZTY1My03M2Y5LThkNTgtYzgwMTY1ZDM1NTRk"
+        "id": "5ccdb3f3-0839-677f-ba16-981fe10b5b67",
+        "uniqueName": "stephwe@microsoft.com",
+        "imageUrl": "https://dev.azure.com/azurequickstarts/_apis/GraphProfile/MemberAvatars/aad.NWNjZGIzZjMtMDgzOS03NzdmLWJhMTYtOTgxZmUxMGI1YjY3",
+        "descriptor": "aad.NWNjZGIzZjMtMDgzOS03NzdmLWJhMTYtOTgxZmUxMGI1YjY3"
     },
     "drafts": [],
-    "queue": {
-        "_links": {
-            "self": {
-                "href": "https://dev.azure.com/azurequickstarts/_apis/build/Queues/19"
-            }
-        },
-        "id": 19,
-        "name": "Azure Pipelines",
-        "url": "https://dev.azure.com/azurequickstarts/_apis/build/Queues/19",
-        "pool": {
-            "id": 10,
-            "name": "Azure Pipelines",
-            "isHosted": true
-        }
-    },
-    "id": 8,
-    "name": "AzQuickStarts-Public",
-    "url": "https://dev.azure.com/azurequickstarts/b191bd7a-37bb-47b0-870c-3f1270a79b3d/_apis/build/Definitions/8?revision=176",
-    "uri": "vstfs:///Build/Definition/8",
+    "id": 27,
+    "name": "AzQuickStarts-New-Public-Staging",
+    "url": "https://dev.azure.com/azurequickstarts/b191bd7a-37bb-47b0-870c-3f1270a79b3d/_apis/build/Definitions/27?revision=19",
+    "uri": "vstfs:///Build/Definition/27",
     "path": "\\",
     "type": 2,
     "queueStatus": 0,
-    "revision": 176,
-    "createdDate": "2021-04-27T15:19:26.310Z",
+    "revision": 19,
+    "createdDate": "2021-07-21T18:11:17.307Z",
     "project": {
         "id": "b191bd7a-37bb-47b0-870c-3f1270a79b3d",
         "name": "azure-quickstart-templates",
