@@ -26,27 +26,22 @@ param publicIPAllocationMethod string = 'Dynamic'
 ])
 param publicIpSku string = 'Basic'
 
-@description('The Windows version for the VM. This will pick a fully patched image of this given Windows version.')
+@description('The Windows version for the VM. This will pick a fully patched Gen2 image of this given Windows version.')
 @allowed([
-  '2008-R2-SP1'
-  '2012-Datacenter'
-  '2012-R2-Datacenter'
-  '2016-Nano-Server'
-  '2016-Datacenter-with-Containers'
-  '2016-Datacenter'
-  '2019-Datacenter'
-  '2019-Datacenter-Core'
-  '2019-Datacenter-Core-smalldisk'
-  '2019-Datacenter-Core-with-Containers'
-  '2019-Datacenter-Core-with-Containers-smalldisk'
-  '2019-Datacenter-smalldisk'
-  '2019-Datacenter-with-Containers'
-  '2019-Datacenter-with-Containers-smalldisk'
+ '2019-datacenter-gensecond'
+ '2019-datacenter-core-gensecond'
+ '2019-datacenter-core-smalldisk-gensecond'
+ '2019-datacenter-core-with-containers-gensecond'
+ '2019-datacenter-core-with-containers-smalldisk-g2'
+ '2019-datacenter-smalldisk-gensecond'
+ '2019-datacenter-with-containers-gensecond'
+ '2019-datacenter-with-containers-smalldisk-g2'
+ '2016-datacenter-gensecond'
 ])
-param OSVersion string = '2019-Datacenter'
+param OSVersion string = '2019-datacenter-gensecond'
 
 @description('Size of the virtual machine.')
-param vmSize string = 'Standard_D2_v3'
+param vmSize string = 'Standard_D2s_v3'
 
 @description('Location for all resources.')
 param location string = resourceGroup().location
@@ -116,17 +111,17 @@ resource vn 'Microsoft.Network/virtualNetworks@2021-02-01' = {
         addressPrefix
       ]
     }
-  }
-}
-
-resource subnet 'Microsoft.Network/virtualNetworks/subnets@2021-02-01' = {
-  parent: vn
-  name: subnetName
-  properties: {
-    addressPrefix: subnetPrefix
-    networkSecurityGroup: {
-      id: securityGroup.id
-    }
+    subnets: [
+      {
+        name: subnetName
+        properties: {
+          addressPrefix: subnetPrefix
+          networkSecurityGroup: {
+            id: securityGroup.id
+          }
+        }
+      }
+    ]
   }
 }
 
@@ -143,7 +138,7 @@ resource nic 'Microsoft.Network/networkInterfaces@2021-02-01' = {
             id: pip.id
           }
           subnet: {
-            id: subnet.id
+            id: resourceId('Microsoft.Network/virtualNetworks/subnets', vn.name, subnetName)
           }
         }
       }

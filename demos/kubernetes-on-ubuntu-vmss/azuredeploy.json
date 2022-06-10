@@ -96,7 +96,7 @@
 		},
 		"vmSize": {
 			"type": "string",
-			"defaultValue": "Standard_DS2_v2",
+			"defaultValue": "Standard_D2s_v3",
 			"metadata": {
 				"description": "The size of the VM"
 			}
@@ -129,7 +129,7 @@
 		"networkInterfaceName": "[concat(parameters('vmName'),'NetInt')]",
 		"subnetRef": "[resourceId('Microsoft.Network/virtualNetworks/subnets', parameters('virtualNetworkName'), parameters('subnetName'))]",
 		"vmssSubnetRef": "[resourceId('Microsoft.Network/virtualNetworks/subnets', parameters('virtualNetworkName'), parameters('vmssSubnetName'))]",
-		"osDiskType": "Standard_LRS",
+		"osDiskType": "StandardSSD_LRS",
 		"scriptsDir": "scripts",
 		"masterScriptFileName": "cloud-init-master.sh",
 		"vmssScriptFileName": "cloud-init-vmss.sh",
@@ -397,3 +397,4 @@
 		}
 	}
 }
+
